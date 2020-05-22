@@ -4,3 +4,5 @@
 1.9版本已更新
 <br><br>
 2020.02.24: 添加files.json文件供资源分析者定位资源位置
+
+屏蔽词库在[table/share/text/Word.tab](table/share/text/Word.tab)
